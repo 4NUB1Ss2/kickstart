@@ -702,6 +702,7 @@ do
     intelephense = {},
     ts_ls = {},
     omnisharp = {},
+    pyright = {},
     -- clangd = {},
     -- gopls = {},
     -- pyright = {},
